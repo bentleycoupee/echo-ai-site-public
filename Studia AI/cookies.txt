@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.clerk.studia.ai	TRUE	/	FALSE	1999999999	__cf_bm	lntcBrKhRkzTF_F1vhjImp37K1awM31b8NvnLOaGDN8-1738798519-1.0.1.1-8UBUg1zGPrzjUf1CplLygphxarKZRWOwU69CCXuVmO6ELIovWTbvdtaSf7puUywAuvU.6wnzQ_MHyj0b6swzsw
-.clerk.studia.ai	TRUE	/	FALSE	1999999999	_cfuvid	VVCqRAeoR9kimOAXBEVRM4DN_VMnAPro5MBxXoX.MLo-1738798519345-0.0.1.1-604800000
-clerk.studia.ai	TRUE	/	FALSE	1999999999	SameSite	None
-
